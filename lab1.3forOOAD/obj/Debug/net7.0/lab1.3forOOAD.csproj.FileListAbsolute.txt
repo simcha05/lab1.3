@@ -1,0 +1,15 @@
+/Users/pro/Desktop/lab1.3forOOAD/lab1.3forOOAD/bin/Debug/net7.0/lab1.3forOOAD
+/Users/pro/Desktop/lab1.3forOOAD/lab1.3forOOAD/bin/Debug/net7.0/lab1.3forOOAD.deps.json
+/Users/pro/Desktop/lab1.3forOOAD/lab1.3forOOAD/bin/Debug/net7.0/lab1.3forOOAD.runtimeconfig.json
+/Users/pro/Desktop/lab1.3forOOAD/lab1.3forOOAD/bin/Debug/net7.0/lab1.3forOOAD.dll
+/Users/pro/Desktop/lab1.3forOOAD/lab1.3forOOAD/bin/Debug/net7.0/lab1.3forOOAD.pdb
+/Users/pro/Desktop/lab1.3forOOAD/lab1.3forOOAD/obj/Debug/net7.0/lab1.3forOOAD.csproj.AssemblyReference.cache
+/Users/pro/Desktop/lab1.3forOOAD/lab1.3forOOAD/obj/Debug/net7.0/lab1.3forOOAD.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pro/Desktop/lab1.3forOOAD/lab1.3forOOAD/obj/Debug/net7.0/lab1.3forOOAD.AssemblyInfoInputs.cache
+/Users/pro/Desktop/lab1.3forOOAD/lab1.3forOOAD/obj/Debug/net7.0/lab1.3forOOAD.AssemblyInfo.cs
+/Users/pro/Desktop/lab1.3forOOAD/lab1.3forOOAD/obj/Debug/net7.0/lab1.3forOOAD.csproj.CoreCompileInputs.cache
+/Users/pro/Desktop/lab1.3forOOAD/lab1.3forOOAD/obj/Debug/net7.0/lab1.3forOOAD.dll
+/Users/pro/Desktop/lab1.3forOOAD/lab1.3forOOAD/obj/Debug/net7.0/refint/lab1.3forOOAD.dll
+/Users/pro/Desktop/lab1.3forOOAD/lab1.3forOOAD/obj/Debug/net7.0/lab1.3forOOAD.pdb
+/Users/pro/Desktop/lab1.3forOOAD/lab1.3forOOAD/obj/Debug/net7.0/lab1.3forOOAD.genruntimeconfig.cache
+/Users/pro/Desktop/lab1.3forOOAD/lab1.3forOOAD/obj/Debug/net7.0/ref/lab1.3forOOAD.dll
